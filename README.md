@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+
+Here is my github, which consists mostly of my projects from school.
 
 <!--
 **Inglume/Inglume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
