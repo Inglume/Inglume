@@ -2,6 +2,8 @@
 
 Here is my github, which consists mostly of my projects from school.
 
+Most of the content here is what I have achieved in high school, but I will keep this up to date with work I am completing throughout university.
+
 <!--
 **Inglume/Inglume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
